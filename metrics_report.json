@@ -1,0 +1,8 @@
+{
+  "model": "Qwen2-VL-2B + LoRA on deepvk/LLaVA-Instruct-ru",
+  "training_samples": 200,
+  "GQA-ru_accuracy": 0.24,
+  "MMBench-ru_accuracy": 0.64,
+  "gpu": "Tesla T4",
+  "notes": "GQA-ru: картинки и вопросы загружены из разных конфигураций и связаны по ID."
+}
